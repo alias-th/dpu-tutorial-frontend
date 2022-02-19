@@ -5,10 +5,10 @@ on:
 
   push:
     branches:
-      - develop
+      - dev
   pull_request:
     branches:
-      - develop
+      - dev
 
 env:
   APP_NAME: rg-dpu-gitaction-1
